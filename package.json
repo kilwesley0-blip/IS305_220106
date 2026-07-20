@@ -1,0 +1,7 @@
+{
+  "name": "dwu-dining-app",
+  "version": "1.0.0",
+  "description": "DWU Dining Services Meal Booking Application",
+  "type": "module",
+  "main": "DiningApp.js"
+}
